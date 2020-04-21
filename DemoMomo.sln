@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMomo", "DemoMomo\DemoMomo.csproj", "{E3A2A9C0-4A48-4E19-87D9-7D303C6D07A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MomoGateWay", "MomoGateWay\MomoGateWay.csproj", "{0B1CA7B1-0C96-4F79-BA6C-3DDDA3DCAC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A2A9C0-4A48-4E19-87D9-7D303C6D07A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A2A9C0-4A48-4E19-87D9-7D303C6D07A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A2A9C0-4A48-4E19-87D9-7D303C6D07A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A2A9C0-4A48-4E19-87D9-7D303C6D07A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1CA7B1-0C96-4F79-BA6C-3DDDA3DCAC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1CA7B1-0C96-4F79-BA6C-3DDDA3DCAC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1CA7B1-0C96-4F79-BA6C-3DDDA3DCAC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1CA7B1-0C96-4F79-BA6C-3DDDA3DCAC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E16042-982A-4BF8-BE88-62B09F0AA601}
+	EndGlobalSection
+EndGlobal
